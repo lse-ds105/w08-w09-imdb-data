@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-This simple repository contains code and data used in Week 078 of 2023's edition of [DS105A](https://lse-dsi.github.io/DS105/).
+This simple repository contains code and data used in Week 08 of 2023's edition of [DS105A](https://lse-dsi.github.io/DS105/).
 
 
 # 📚 PREPARATION
