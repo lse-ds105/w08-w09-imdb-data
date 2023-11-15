@@ -21,3 +21,9 @@ If you want to replicate the analysis in this notebook, you will need to:
 1. Clone this repository to your computer.
 2. Add it to your VS Code workspace.
 3. Go to [IMDb Non-Commercial Datasets](https://developer.imdb.com/non-commercial-datasets/) page and download all `tsv.gz` files from there, place all of that under the `data/raw/` folder. This folder is gitignored, we don't want to push large data files to GitHub!
+4. Run:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+5. Open the notebook and run the cells!
