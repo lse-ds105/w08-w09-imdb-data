@@ -1,4 +1,4 @@
-# LSE DS105A (2023/24) - Week 08: More pandas operations, databases & data reshaping
+# LSE DS105A (2023/24) - Week 08: Preprocessing and grouping data with pandas, a groupby-apply tutorial
 
 <figure>
     <img src="./figures/DS105L_favicon.png" alt="Image Created with Stable Diffusion"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;">
