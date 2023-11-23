@@ -25,7 +25,7 @@ If you want to replicate the analysis in this notebook, you will need to:
 
     ```bash
     conda create -n venv-ds105a python=3.11 ipython
-    conda activte venv-ds105a
+    conda activate venv-ds105a
     ```
 5. Make sure `pip` is installed inside that environment:
 
